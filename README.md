@@ -1,1 +1,1 @@
-This is the repo for my portfolio
+Welcome to my GitHub Pages.
